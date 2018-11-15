@@ -1,0 +1,53 @@
+.carousel .carousel-indicators li {
+    max-width: 40px;
+    height: 20px;
+    width: 40px;
+    border-radius: 0% !important;
+    cursor: pointer;
+    border: 5px solid #00796b;
+    box-shadow: 0 0 15px white;
+}
+.navbar{
+    background: linear-gradient(to right,rgba(16,0,107,0.93),rgba(31,68,107,0.93),rgba(31,68,107,0.93));
+}
+#footer{
+    background-color: #1C2A48;
+}
+.text-teal{
+    color: #00796b;
+}
+#we-provide{
+    background: linear-gradient(to right,rgba(79,22,255,0.88),rgba(255,0,245,0.93)  );
+
+}
+.text-area{
+    height: auto;
+    border-radius: 10px;
+}
+.text-area:focus{
+    border: 2px solid #689df6;
+
+}
+.card-image{
+    margin-top: -50px;
+}
+.trainer-card{
+    border-radius: 12px;
+}
+.trainer-card:hover{
+    background:linear-gradient(to bottom,rgba(16,13,107,0.74),rgba(90,41,117,0.68));
+    cursor: pointer;
+}
+.trainer-card:hover h3 , .trainer-card:hover p{
+    color: white;
+}
+
+.trainer-card:hover .icon{
+    color: white;
+}
+.navbar{
+    background: linear-gradient(to right,rgba(16,0,107,0.93),rgba(31,68,107,0.93),rgba(31,68,107,0.93));
+}
+ #footer{
+    background-color: #1C2A48;
+}
